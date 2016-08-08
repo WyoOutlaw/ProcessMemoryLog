@@ -38,6 +38,9 @@ $RECYCLE.BIN/
 .TemporaryItems
 .Trashes
 .VolumeIcon.icns
+ProcessMemoryLog.VC.db
+ProcessMemoryLog.vcxproj.filters
+ProcessMemoryLog.vcxproj.user
 
 # Directories potentially created on remote AFP share
 .AppleDB
@@ -45,3 +48,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+Debug/vc140.pdb
+Release
+Debug
+.vs
